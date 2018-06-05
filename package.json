@@ -7,9 +7,12 @@
     "test": "test",
     "start": "node ./bin/www"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ByIvo/guess-what"
+  },
   "keywords": [
     "game",
-    "byivo",
     "guess"
   ],
   "author": "ByIvo <irbatistela@gmail.com>",
