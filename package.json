@@ -4,7 +4,7 @@
   "description": "It is a Node.js game where you need to guess the four non-repeated numbers combination.",
   "main": "server.js",
   "scripts": {
-    "test": "test",
+    "test": "mocha \"src/**/*-spec.js\"",
     "start": "node ./bin/www"
   },
   "repository": {
